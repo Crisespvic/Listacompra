@@ -5,3 +5,7 @@ chuletas
 pechuga
 morcilla
 longanizas
+lechuga
+tomate
+cebolla
+Berenjena
